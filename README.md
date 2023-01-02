@@ -130,4 +130,7 @@ H~2~O是剧毒的!
 
 file:///home/ck/do_sth_here/learning/markdown/img/ec43126fgy1h1y47yuiy5j212l1fekjl.jpg
 
+file:./img/ec43126fgy1h1y47yuiy5j212l1fekjl.jpg
+
+
 ec43126fgy1h1y47yuiy5j212l1fekjl.jpg
