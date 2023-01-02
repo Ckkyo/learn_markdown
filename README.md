@@ -128,12 +128,14 @@ H~2~O是剧毒的!
 
 # 17. 图片[直接拖进来或者复制粘贴]
 
-file:///home/ck/do_sth_here/learning/markdown/img/ec43126fgy1h1y47yuiy5j212l1fekjl.jpg
-
-file:https://raw.githubusercontent.com/Ckkyo/learn_markdown/main/img/ec43126fgy1h1y47yuiy5j212l1fekjl.jpg
-
+**使用网站路径**
 ![Image](https://raw.githubusercontent.com/Ckkyo/learn_markdown/main/img/ec43126fgy1h1y47yuiy5j212l1fekjl.jpg)
 
+**使用相对路径**
 ![Image](./img/ec43126fgy1h1y47yuiy5j212l1fekjl.jpg)
 
-ec43126fgy1h1y47yuiy5j212l1fekjl.jpg
+**使用绝对路径**
+![Image](/home/ck/do_sth_here/learning/markdown/img/ec43126fgy1gz1wg39lguj23pv52ce84.jpg)
+
+
+
