@@ -130,7 +130,8 @@ H~2~O是剧毒的!
 
 file:///home/ck/do_sth_here/learning/markdown/img/ec43126fgy1h1y47yuiy5j212l1fekjl.jpg
 
-file:https://github.com/Ckkyo/learn_markdown/tree/main/img/ec43126fgy1h1y47yuiy5j212l1fekjl.jpg
+file:https://raw.githubusercontent.com/Ckkyo/learn_markdown/main/img/ec43126fgy1h1y47yuiy5j212l1fekjl.jpg
 
+https://raw.githubusercontent.com/Ckkyo/learn_markdown/main/img/ec43126fgy1h1y47yuiy5j212l1fekjl.jpg
 
 ec43126fgy1h1y47yuiy5j212l1fekjl.jpg
