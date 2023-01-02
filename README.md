@@ -132,6 +132,8 @@ file:///home/ck/do_sth_here/learning/markdown/img/ec43126fgy1h1y47yuiy5j212l1fek
 
 file:https://raw.githubusercontent.com/Ckkyo/learn_markdown/main/img/ec43126fgy1h1y47yuiy5j212l1fekjl.jpg
 
-https://raw.githubusercontent.com/Ckkyo/learn_markdown/main/img/ec43126fgy1h1y47yuiy5j212l1fekjl.jpg
+![Image](https://raw.githubusercontent.com/Ckkyo/learn_markdown/main/img/ec43126fgy1h1y47yuiy5j212l1fekjl.jpg)
+
+![Image](./img/ec43126fgy1h1y47yuiy5j212l1fekjl.jpg)
 
 ec43126fgy1h1y47yuiy5j212l1fekjl.jpg
