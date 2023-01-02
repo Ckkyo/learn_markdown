@@ -22,6 +22,8 @@
 - [1. 目录\[自动生成\]](#1-目录自动生成)
 - [2. 内联HTML代码\[用"\<\>\</\>"包围\]](#2-内联html代码用包围)
 - [3.内联latex公式\[用"$"包围\]](#3内联latex公式用包围)
+- [4. 网络图床](#4-网络图床)
+- [5. vscode的一些快捷键](#5-vscode的一些快捷键)
 
 # 基础教程
 
@@ -192,6 +194,7 @@ ___
 
 # 2. 内联HTML代码[用"<></>"包围]
 
+```html
 <div style="text-align:center">  
   <font style="color:red">我不会 HTML</font>  
 </div>  
@@ -199,6 +202,16 @@ ___
 <center>简单的文字居中也可以这样</center>
 
 <u>下划线</u>
+```
+
+<div style="text-align:center">
+  <font style="color:red">我不会 HTML 呜呜呜... 浇浇我</font>
+</div>
+
+
+<center>简单的文字居中也可以这样</center>
+
+<u>我差点忘了还有下划线这东西...</u>
 
 不会用...
 
@@ -221,3 +234,28 @@ $$
 \mathrm{Fe}(\mathrm{CN})_6} ,\forall z \in \mathbb{R}
 $$
 
+有一部分不能正常显示  
+
+# 4. 网络图床
+
+  不管了
+
+# 5. vscode的一些快捷键
+
+**我已经知道的就不写了**
+|按键|效果|
+|:-:|:-:|
+|ctrl + D|选中当前单词(向前) |
+|ctrl + L|选中当前行        |
+|ctrl + E|按照名称搜索文件   |
+|ctrl + B|(md)加粗当前选中  |
+|ctrl + I|(md)加斜当前选中  |
+|ctrl + J|打开终端          |
+|ctrl + W|关闭当前窗口      |
+|ctrl + N|打开新窗口        |
+|ctrl + O|打开文件         |
+|ctrl + P|按照名称搜索文件  |
+|ctrl + ,|打开设置         |
+|ctrl + /|注释            |
+|ctrl + shift + + |放大   |
+|ctrl + -|缩小            |
